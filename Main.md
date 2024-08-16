@@ -1,8 +1,4 @@
-Here’s a combined and enhanced README file that explains how you progressed from analyzing emotions in sentences to applying sentiment analysis to predict stock market trends, incorporating the techniques and tech stack used in both projects:
-
----
-
-# Comprehensive Sentiment Analysis: From Emotion Detection to Stock Market Prediction
+#Comprehensive Sentiment Analysis: From Emotion Detection to Stock Market Prediction
 
 This project presents a unified approach to sentiment analysis, beginning with emotion detection in textual data using neural networks and extending to predicting stock market trends based on sentiment. By leveraging advanced machine learning techniques, this project showcases the evolution from understanding emotions in sentences to analyzing market sentiments that influence stock trends.
 
