@@ -1,7 +1,7 @@
 
 # Stock Sentiment Analysis
 
-This project predicts whether a stock is bullish or bearish based on sentiment data. The data is sourced from [Benzinga.com](https://www.benzinga.com/), a financial news source. The data was scraped using tools available [here](https://github.com/miguelaenlle/Scraping-Tools-Benzinga).
+Based on sentiment data, this project predicts whether a stock is bullish or bearish. The data is sourced from [Benzinga. com](https://www.benzinga.com/), a financial news source. The data was scraped using tools available [here](https://github.com/miguelaenlle/Scraping-Tools-Benzinga).
 
 ## Table of Contents
 - [Project Overview](#project-overview)
